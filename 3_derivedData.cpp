@@ -9,7 +9,7 @@
 	* On les initialise : nombre croissant positif sur 0,
 	* nombre décroissant négatif sur 1.
 	* On construit le type de donnée matrice triangulaire
-	*	supérieur pour 0 et inférieur pour 1
+	* supérieur pour 0 et inférieur pour 1
 	* On envoie et échange les matrices triangulaires
 	* Libère les ressources et quitte MPI.
 	*/
