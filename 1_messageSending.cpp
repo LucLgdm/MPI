@@ -1,9 +1,10 @@
 #include <iostream>
 #include <mpi.h>
 
-	/****************************
-	* Envoie de messages simples
-	*****************************/
+	/***********************************
+ * Created by Luc de Mercey, 01.2024
+ * Sending simple message
+	************************************/
 
 
 int main(int argc, char argv[]){
